@@ -1,3 +1,3 @@
-def addtwonumbers(x,y):
+def add(x,y):
     return x + y
-print(addtwonumbers(9, 10))
+print(add(9, 10))
